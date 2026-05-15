@@ -27,9 +27,9 @@ defmodule Modelos do
       :victorias,
       :monedas_actuales,
       :monedas_acumuladas,
-      :inventario,
-      :sobres_pendientes,
-      :equipos
+      inventario: [],
+      sobres_pendientes: [],
+      equipos: []
     ]
 
   end
